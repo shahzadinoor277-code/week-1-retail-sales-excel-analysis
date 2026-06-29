@@ -120,7 +120,6 @@ Prepared observations based on the analysis and results obtained from the datase
 - retail_sales_dataset.csv
 - README.md
 - Screenshots of Sorting and Filtering Results
-- Charts
 
 ---
 
