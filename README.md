@@ -153,6 +153,6 @@ This project helped me understand the complete process of preparing raw data for
 
 Data Analysis Intern at LogicStack
 
-GitHub: (Add your GitHub profile link here)
+GitHub: https://github.com/shahzadinoor277-code
 
 LinkedIn: https://www.linkedin.com/in/shahzadi-noor-50137a382
